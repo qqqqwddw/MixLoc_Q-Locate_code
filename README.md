@@ -1,4 +1,4 @@
-# MixLoc / Q-Locate 代码发布包（v2）
+# MixLoc / Q-Locate 代码发布包
 
 **MixLoc and Q-Locate: A Multilingual Benchmark and Joint Model for Mixed Human–AI Text Detection and Localization**
 
